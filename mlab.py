@@ -22,3 +22,4 @@ record = {
 pushRECORD(record)
 record = getRECORD(1)
 print(record);
+updateRecord(1,45);
